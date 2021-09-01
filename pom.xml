@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.liangcoder</groupId>
 	<artifactId>URLShortener</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<name>URLShortener</name>
 	<description>URL Shortener Service</description>
